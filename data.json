@@ -1,0 +1,49 @@
+{
+  "basics":{
+    "name":"NAVYA",
+    "email":"navya.kadimissetty@gmail.com",
+    "mobile":"+91 9977553311"
+  },
+  "career":{
+    "info":"Seeking challenging career in [your profession] Sector to get a position of responsibility, using my professional skills and efficiency to communicate my ideas and views and commit myself for achieving organizational objectives with the team effort and my positive attitude and performance"
+  },
+  "education":[
+    {
+      "degree":"B.Tech(C.S.E)",
+      "institute":"Avanthi Institute of Engineering and Technology",
+      "data":["2015-19","73%"]
+    },
+    {
+      "degree":"Intermediate",
+      "institute":"Narayana Jr.College, Narsipatnam",
+      "data":["2013-15","87.7%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Narayana e-techno school",
+      "data":["2012-13","88%"]
+    }
+  ],
+  "skills":[
+    {
+      "title":"Programming Languages",
+      "info":["C","C++","Java","Python","R"]
+    },
+    {
+      "title":"DataBases",
+      "info":["mongoDb","mySql","oracle"]
+    },
+    {
+      "title":"Web Technologies",
+      "info":["HTML5","CSS3","JavaScript"]
+    },
+    {
+      "title":"Libraries and FrameWorks",
+      "info":["ionic","Angular","expressJs",".Net","Django"]
+    },
+    {
+      "title":"Operating Systems",
+      "info":["Linux","Windows","Dos"]
+    }
+  ]
+  }
